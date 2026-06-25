@@ -1,149 +1,113 @@
-<h1 align="center">Hi 👋, I'm Aman Raj Ojha</h1>
+# Hi 👋, I'm Aman Raj Ojha
 
-<h3 align="center">Artificial Intelligence & Machine Learning Student | Aspiring AI Engineer</h3>
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=220&section=header&text=Aman%20Raj%20Ojha&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20ML%20Student%20|%20Aspiring%20AI%20Engineer&descAlignY=70"/>`{=html}
 
+[![Typing
+SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+Enthusiast;Computer+Vision+%7C+NLP;Always+Learning+Something+New)](https://git.io/typing-svg)
+:::
+
+------------------------------------------------------------------------
+
+## 🚀 About Me
+
+-   🎓 **B.E. CSE (AI & ML)** --- Chandigarh University
+-   🤖 Passionate about Artificial Intelligence, Machine Learning & Deep
+    Learning
+-   💻 Regularly solving DSA problems
+-   🌱 Currently learning Computer Vision, NLP and Generative AI
+-   🚀 Looking for AI/ML Internship opportunities
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://skillicons.dev/icons?i=python,cpp,js,sql)
+
+### AI / ML
+
+![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,flask)
+
+------------------------------------------------------------------------
+
+# 🌟 Featured Projects
+
+## ⚖️ NyayMitra
+
+AI-powered legal assistance platform using Machine Learning.
+
+## 🐱 classifier_cat_dog
+
+Cat vs Dog Classification using CNN & Transfer Learning.
+
+## 🐶 deep-learning-pets
+
+Deep Learning experiments on pet image classification.
+
+## 📊 Customer-Categorizer
+
+Machine Learning based customer segmentation.
+
+## 🎓 AI Attention Prediction Framework
+
+Predicting student attention in online learning environments.
+
+## 💻 DSA
+
+LeetCode & Data Structures solutions in C++.
+
+------------------------------------------------------------------------
+
+# 📈 GitHub Stats
+
+```{=html}
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Data Science, and solving real-world problems through technology.
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanojha408&show_icons=true&theme=tokyonight"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanojha408&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=amanojha408&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanojha408&theme=tokyo-night"/>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🚀 About Me
+# 🏆 Goals
 
-🎓 B.E. Computer Science Engineering (AI & ML)
+-   Build impactful AI products
+-   Master Deep Learning
+-   Contribute to Open Source
+-   Crack AI/ML Internship
+-   Strengthen DSA
 
-🏫 Chandigarh University
+------------------------------------------------------------------------
 
-📚 Currently in 2nd Year (4th Semester)
+# 📫 Connect
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development
+-   GitHub: https://github.com/amanojha408
+-   LinkedIn: https://linkedin.com/in/aman-raj-ojha-613bb3378
 
-💻 Regularly practicing Data Structures & Algorithms
+------------------------------------------------------------------------
 
-🌱 Currently Learning:
-- Machine Learning
-- Deep Learning
-- Data Science
-- Computer Vision
-- Natural Language Processing
-
-🎯 Career Goal:
-Become an AI Engineer and contribute to impactful AI-driven solutions.
-
----
-
-# 🛠️ Technical Skills
-
-## Programming Languages
-
-- Python
-- C++
-- SQL
-
-## Artificial Intelligence & Machine Learning
-
-- Machine Learning
-- Data Analysis
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-
-## Libraries & Tools
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- Jupyter Notebook
-- Google Colab
-
-## Databases
-
-- MySQL
-- MongoDB
-
-## Development Tools
-
-- Git
-- GitHub
-- VS Code
-
----
-
-# 📚 Current Learning Journey
-
-✅ Python
-
-✅ C++
-
-✅ Data Structures & Algorithms
-
-✅ Database Management Systems
-
-🔄 Machine Learning
-
-🔄 Deep Learning
-
-🔄 Computer Vision
-
-🔄 Natural Language Processing
-
-🔄 Generative AI Fundamentals
-
----
-
-# 🤖 Featured Projects
-
-
-### 📌 Student Performance Prediction
-Predicting student academic performance using ML techniques.
-
-### 📌 Fake News Detection
-Natural Language Processing project to identify fake news articles.
-
-### 📌 Resume Screening AI
-AI-powered system for filtering resumes based on job requirements.
-
-### 📌 Face Recognition Attendance System
-Computer Vision project for automated attendance management.
-
----
-
-# 🏆 Achievements
-
-🥇 Mathematics Tech Event Winner
-
-📈 Consistent DSA Practice
-
-🎓 Multiple Online Certifications
-
-🚀 Building AI & ML Projects
-
----
-
-# 🎯 2026 Goals
-
-- Solve 500+ DSA Problems
-- Build 10 AI/ML Projects
-- Learn Deep Learning
-- Learn Computer Vision
-- Learn NLP
-- Contribute to Open Source
-- Secure an AI/ML Internship
-
----
-
-
-# 📫 Connect With Me
-
-📧 Email: ojhaaman765@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/aman-raj-ojha-613bb3378/
-
-🌐 GitHub: https://github.com/amanojha408
-
----
-
-<h3 align="center">
-Building intelligent systems, one project at a time 🚀
-</h3>
+::: {align="center"}
+⭐ **If you like my projects, don't forget to star them!**
+:::
